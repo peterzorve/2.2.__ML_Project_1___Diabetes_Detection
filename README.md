@@ -1,1 +1,1 @@
-# 8.2.__Machine_Learning_Project-1___Diabetes_Detection
+# 8.2.__ML_1___Diabetes_Detection
